@@ -1,0 +1,25 @@
+Bug Log board:
+1. Movement is not random for newly generated aliens (high) <-- Current
+
+2. Bullets are too powerful! We need to remove the bullet after it has killed an alien (medium)
+
+3. Bullet shooting is too slow... We need to have the ability to shoot faster (low priority)
+
+Features (User Stories/Product Backlogs):
+1. A boss alien that shows up after your score reaches 500, in order to make the game more engaging  (low)
+
+2. Our own alien art, to make it more original and look better (low)
+
+3. Make a level system, so we can make it more engaging (around 10 levels) (medium)
+
+4. Make different types of spaceships and unlock different types depending on level or which one you buy, to make it more intresting and playable after you finish all the levels. (low and high resources)
+
+5. Make a infinite level feature that could make it playable even if you have all of the spaceships (low)
+
+6. In the infinite level make it posible to play with a friend (low priority)
+
+7. Add a main menu when we load the game for us to have a screen inbetween starting and playing (High Priority)
+
+8. Add an dynamic score board that displays the current level and score, so that I can track my progress in the game (High priority) 
+
+9. MAKE THE END LOOK BETTER (Very High Priority and easy to make)
